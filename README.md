@@ -4,8 +4,8 @@ I am a dual-degree UC Davis student in Computer Science and Cinema & Digital Med
 
 ### Projects
 - [Steal Decision Model](https://stealdecisionmodel.com) — full-stack baseball analytics app predicting stolen-base success (Go + React/TypeScript)
-- [Letterboxd Recommendation Engine](https://github.com/ColinDaugherty25/letterboxd-recommendation)
-- [NHL Draft Search](https://github.com/ColinDaugherty25/nhl-draft-search)
+- [Letterboxd Recommendation Engine](https://github.com/ColinDaugherty25/letterboxd-recommendation) — recommends films to watch based on your Letterboxd ratings and history
+- [NHL Draft Search](https://github.com/ColinDaugherty25/nhl-draft-search) — static web app for browsing NHL Entry Draft picks by team and year
 
 ### Skills
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
