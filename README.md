@@ -8,11 +8,11 @@ I am a dual-degree UC Davis student in Computer Science and Cinema & Digital Med
 - [NHL Draft Search](https://github.com/ColinDaugherty25/nhl-draft-search) — static web app for browsing NHL Entry Draft picks by team and year
 
 ### Recently Watched
-<!-- MOVIE-LIST:START -->- Hoppers, 2026 - ★★★½
+<!-- MOVIE-LIST:START -->
+- Hoppers, 2026 - ★★★½
 - Spider-Man: Brand New Day, 2026 - ★★★★
 - The Equalizer 3, 2023 - ★★½
-- Hercules, 1997 - ★★★★
-<!-- MOVIE-LIST:END -->
+- Hercules, 1997 - ★★★★<!-- MOVIE-LIST:END -->
 
 ### Skills
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
