@@ -1,4 +1,4 @@
-## Hi there 👋
+## Colin Daugherty
 
 <!--
 **ColinDaugherty25/ColinDaugherty25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
