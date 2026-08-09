@@ -21,5 +21,5 @@ I am a dual-degree UC Davis student in Computer Science and Cinema & Digital Med
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 ### Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([ht-LINKEDIN-HANDLE](https://www.linkedin.com/in/colin-daugherty-3808a5247/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/colin-daugherty-3808a5247/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:colindaugherty325@gmail.com)
