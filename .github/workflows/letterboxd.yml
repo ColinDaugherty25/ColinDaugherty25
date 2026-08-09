@@ -15,4 +15,4 @@ jobs:
           comment_tag_name: "MOVIE-LIST"
           feed_list: "https://letterboxd.com/colin_daugherty/rss/"
           max_post_count: 4
-          template: "$title"
+          template: "- $title$newline"
