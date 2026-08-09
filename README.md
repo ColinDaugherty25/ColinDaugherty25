@@ -7,6 +7,10 @@ I am a dual-degree UC Davis student in Computer Science and Cinema & Digital Med
 - [Letterboxd Recommendation Engine](https://github.com/ColinDaugherty25/letterboxd-recommendation) — recommends films to watch based on your Letterboxd ratings and history
 - [NHL Draft Search](https://github.com/ColinDaugherty25/nhl-draft-search) — static web app for browsing NHL Entry Draft picks by team and year
 
+### Recently Watched
+<!-- MOVIE-LIST:START -->
+<!-- MOVIE-LIST:END -->
+
 ### Skills
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
