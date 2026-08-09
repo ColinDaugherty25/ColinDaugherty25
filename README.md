@@ -8,13 +8,7 @@ I am a dual-degree UC Davis student in Computer Science and Cinema & Digital Med
 - [NHL Draft Search](https://github.com/ColinDaugherty25/nhl-draft-search) — static web app for browsing NHL Entry Draft picks by team and year
 
 ### Recently Watched
-<!-- MOVIE-LIST:START -->
-- [Hoppers, 2026 - ★★★½](https://letterboxd.com/colin_daugherty/film/hoppers/)
-- [Spider-Man: Brand New Day, 2026 - ★★★★](https://letterboxd.com/colin_daugherty/film/spider-man-brand-new-day/)
-- [The Equalizer 3, 2023 - ★★½](https://letterboxd.com/colin_daugherty/film/the-equalizer-3/)
-- [Hercules, 1997 - ★★★★](https://letterboxd.com/colin_daugherty/film/hercules-1997/)
-- [The Odyssey, 2026 - ★★★★½](https://letterboxd.com/colin_daugherty/film/the-odyssey-2026/)
-<!-- MOVIE-LIST:END -->
+<!-- MOVIE-LIST:START -->Hoppers, 2026 - ★★★½Spider-Man: Brand New Day, 2026 - ★★★★The Equalizer 3, 2023 - ★★½Hercules, 1997 - ★★★★<!-- MOVIE-LIST:END -->
 
 ### Skills
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
