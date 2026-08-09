@@ -2,6 +2,11 @@
 
 I am a dual-degree UC Davis student in Computer Science and Cinema & Digital Media, focused on full-stack development. My film background sharpens how I communicate and design, making me a more effective collaborator and well-rounded engineer.
 
+### Projects
+- [Steal Decision Model](https://stealdecisionmodel.com) — full-stack baseball analytics app predicting stolen-base success (Go + React/TypeScript)
+- [Letterboxd Recommendation Engine](https://github.com/ColinDaugherty25/letterboxd-recommendation)
+- [NHL Draft Search](https://github.com/ColinDaugherty25/nhl-draft-search)
+
 ### Skills
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
